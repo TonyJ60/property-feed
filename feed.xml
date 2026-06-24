@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export date="2026-06-24" version="3">
+
+  <property id="1001">
+    <date>2026-06-24</date>
+    <ref>DUQ-001</ref>
+    <price>285000</price>
+    <currency>EUR</currency>
+    <price_freq>sale</price_freq>
+    <type>Apartment</type>
+    <town>Puerto de la Duquesa</town>
+    <province>Málaga</province>
+    <country>ES</country>
+    <location>
+      <latitude>36.3721</latitude>
+      <longitude>-5.2458</longitude>
+    </location>
+    <beds>2</beds>
+    <baths>2</baths>
+    <pool>1</pool>
+    <terrace>1</terrace>
+    <garage>0</garage>
+    <garden>0</garden>
+    <desc lang="en">
+      Bright and spacious two-bedroom apartment in the heart of Puerto de la Duquesa marina. Enjoy morning coffee on the south-facing terrace with sea views, then stroll to the beach or the bustling port restaurants. The development has a communal pool and is within easy walking distance of all amenities. An ideal lock-up-and-leave or permanent residence.
+    </desc>
+    <images>
+      <image>https://www.example-estate-agent.com/properties/1001/img1.jpg</image>
+      <image>https://www.example-estate-agent.com/properties/1001/img2.jpg</image>
+      <image>https://www.example-estate-agent.com/properties/1001/img3.jpg</image>
+    </images>
+    <features>
+      <feature>Air conditioning</feature>
+      <feature>Communal pool</feature>
+      <feature>Sea views</feature>
+      <feature>South facing</feature>
+      <feature>Near marina</feature>
+    </features>
+  </property>
+
+  <property id="1002">
+    <date>2026-06-24</date>
+    <ref>MAN-002</ref>
+    <price>189000</price>
+    <currency>EUR</currency>
+    <price_freq>sale</price_freq>
+    <type>Townhouse</type>
+    <town>Sabinillas</town>
+    <province>Málaga</province>
+    <country>ES</country>
+    <location>
+      <latitude>36.3612</latitude>
+      <longitude>-5.2380</longitude>
+    </location>
+    <beds>3</beds>
+    <baths>2</baths>
+    <pool>1</pool>
+    <terrace>1</terrace>
+    <garage>1</garage>
+    <garden>1</garden>
+    <desc lang="en">
+      Charming three-bedroom townhouse in a quiet residential area of Sabinillas, just a short walk from the beach and the town's lively tapas bars. The property features a private roof terrace with mountain and partial sea views, a small enclosed garden, and a single garage. Ideal for families or those looking for a permanent home on the Costa del Sol.
+    </desc>
+    <images>
+      <image>https://www.example-estate-agent.com/properties/1002/img1.jpg</image>
+      <image>https://www.example-estate-agent.com/properties/1002/img2.jpg</image>
+      <image>https://www.example-estate-agent.com/properties/1002/img3.jpg</image>
+    </images>
+    <features>
+      <feature>Private roof terrace</feature>
+      <feature>Garage</feature>
+      <feature>Garden</feature>
+      <feature>Near beach</feature>
+      <feature>Mountain views</feature>
+    </features>
+  </property>
+
+  <property id="1003">
+    <date>2026-06-24</date>
+    <ref>DUQ-003</ref>
+    <price>1450</price>
+    <currency>EUR</currency>
+    <price_freq>month</price_freq>
+    <type>Apartment</type>
+    <town>Castillo de la Duquesa</town>
+    <province>Málaga</province>
+    <country>ES</country>
+    <location>
+      <latitude>36.3740</latitude>
+      <longitude>-5.2490</longitude>
+    </location>
+    <beds>2</beds>
+    <baths>1</baths>
+    <pool>1</pool>
+    <terrace>1</terrace>
+    <garage>0</garage>
+    <garden>0</garden>
+    <desc lang="en">
+      Well-presented two-bedroom apartment available for long-term rental in Castillo de la Duquesa. The property has been recently refurbished and offers a comfortable open-plan living space, a generous terrace, and access to a communal pool. Walking distance from the castle ruins, the beach, and local supermarkets. Available from 1st August 2026.
+    </desc>
+    <images>
+      <image>https://www.example-estate-agent.com/properties/1003/img1.jpg</image>
+      <image>https://www.example-estate-agent.com/properties/1003/img2.jpg</image>
+    </images>
+    <features>
+      <feature>Long-term rental</feature>
+      <feature>Communal pool</feature>
+      <feature>Recently refurbished</feature>
+      <feature>Near beach</feature>
+      <feature>Near castle ruins</feature>
+    </features>
+  </property>
+
+  <property id="1004">
+    <date>2026-06-24</date>
+    <ref>MAN-004</ref>
+    <price>425000</price>
+    <currency>EUR</currency>
+    <price_freq>sale</price_freq>
+    <type>Villa</type>
+    <town>Manilva</town>
+    <province>Málaga</province>
+    <country>ES</country>
+    <location>
+      <latitude>36.3830</latitude>
+      <longitude>-5.2540</longitude>
+    </location>
+    <beds>4</beds>
+    <baths>3</baths>
+    <pool>1</pool>
+    <terrace>1</terrace>
+    <garage>2</garage>
+    <garden>1</garden>
+    <desc lang="en">
+      Stunning detached villa set in the hills above Manilva village, offering panoramic views across the vineyards to the sea and Gibraltar. This four-bedroom property has been lovingly maintained by its original owners and benefits from a private pool, mature landscaped gardens, a double garage, and a large covered terrace perfect for al fresco dining. A rare opportunity to acquire a substantial family home in one of the Costa del Sol's most authentic villages.
+    </desc>
+    <images>
+      <image>https://www.example-estate-agent.com/properties/1004/img1.jpg</image>
+      <image>https://www.example-estate-agent.com/properties/1004/img2.jpg</image>
+      <image>https://www.example-estate-agent.com/properties/1004/img3.jpg</image>
+      <image>https://www.example-estate-agent.com/properties/1004/img4.jpg</image>
+    </images>
+    <features>
+      <feature>Private pool</feature>
+      <feature>Double garage</feature>
+      <feature>Sea views</feature>
+      <feature>Views to Gibraltar</feature>
+      <feature>Vineyard views</feature>
+      <feature>Mature garden</feature>
+    </features>
+  </property>
+
+  <property id="1005">
+    <date>2026-06-24</date>
+    <ref>DUQ-005</ref>
+    <price>159000</price>
+    <currency>EUR</currency>
+    <price_freq>sale</price_freq>
+    <type>Studio</type>
+    <town>Puerto de la Duquesa</town>
+    <province>Málaga</province>
+    <country>ES</country>
+    <location>
+      <latitude>36.3715</latitude>
+      <longitude>-5.2462</longitude>
+    </location>
+    <beds>0</beds>
+    <baths>1</baths>
+    <pool>1</pool>
+    <terrace>1</terrace>
+    <garage>0</garage>
+    <garden>0</garden>
+    <desc lang="en">
+      Compact and cleverly designed studio apartment just metres from the marina in Puerto de la Duquesa. Perfect as a holiday bolthole or rental investment, the property has a sunny terrace, access to a communal pool, and is surrounded by restaurants and bars. The marina itself is on the doorstep, making this an easy-care property with strong rental appeal.
+    </desc>
+    <images>
+      <image>https://www.example-estate-agent.com/properties/1005/img1.jpg</image>
+      <image>https://www.example-estate-agent.com/properties/1005/img2.jpg</image>
+    </images>
+    <features>
+      <feature>Communal pool</feature>
+      <feature>Marina views</feature>
+      <feature>Investment potential</feature>
+      <feature>South facing</feature>
+    </features>
+  </property>
+
+  <property id="1006">
+    <date>2026-06-24</date>
+    <ref>SAB-006</ref>
+    <price>310000</price>
+    <currency>EUR</currency>
+    <price_freq>sale</price_freq>
+    <type>Penthouse</type>
+    <town>Sabinillas</town>
+    <province>Málaga</province>
+    <country>ES</country>
+    <location>
+      <latitude>36.3620</latitude>
+      <longitude>-5.2375</longitude>
+    </location>
+    <beds>3</beds>
+    <baths>2</baths>
+    <pool>1</pool>
+    <terrace>1</terrace>
+    <garage>1</garage>
+    <garden>0</garden>
+    <desc lang="en">
+      Exceptional top-floor penthouse in a sought-after beachside development in Sabinillas. The generous wraparound terrace enjoys uninterrupted sea views towards Africa and Gibraltar, making it one of the finest outdoor spaces in the area. Inside, three spacious bedrooms and two bathrooms are finished to a high standard. Underground parking included. This is penthouse living at a very sensible price.
+    </desc>
+    <images>
+      <image>https://www.example-estate-agent.com/properties/1006/img1.jpg</image>
+      <image>https://www.example-estate-agent.com/properties/1006/img2.jpg</image>
+      <image>https://www.example-estate-agent.com/properties/1006/img3.jpg</image>
+    </images>
+    <features>
+      <feature>Wraparound terrace</feature>
+      <feature>Sea views</feature>
+      <feature>Views to Africa</feature>
+      <feature>Underground parking</feature>
+      <feature>Beachside</feature>
+    </features>
+  </property>
+
+  <property id="1007">
+    <date>2026-06-24</date>
+    <ref>MAN-007</ref>
+    <price>85000</price>
+    <currency>EUR</currency>
+    <price_freq>sale</price_freq>
+    <type>Village house</type>
+    <town>Manilva</town>
+    <province>Málaga</province>
+    <country>ES</country>
+    <location>
+      <latitude>36.3842</latitude>
+      <longitude>-5.2555</longitude>
+    </location>
+    <beds>2</beds>
+    <baths>1</baths>
+    <pool>0</pool>
+    <terrace>1</terrace>
+    <garage>0</garage>
+    <garden>0</garden>
+    <desc lang="en">
+      Traditional two-bedroom village house in the historic centre of Manilva, steps from the church and the famous Manilva wine cooperative. The property retains many original features including exposed beams and tiled floors, with a charming roof terrace offering views across the village and surrounding vineyards. In need of some updating, this is a great project for those looking to put their own stamp on an authentic Andalusian home.
+    </desc>
+    <images>
+      <image>https://www.example-estate-agent.com/properties/1007/img1.jpg</image>
+      <image>https://www.example-estate-agent.com/properties/1007/img2.jpg</image>
+    </images>
+    <features>
+      <feature>Village centre</feature>
+      <feature>Roof terrace</feature>
+      <feature>Original features</feature>
+      <feature>Vineyard views</feature>
+      <feature>Project property</feature>
+    </features>
+  </property>
+
+  <property id="1008">
+    <date>2026-06-24</date>
+    <ref>DUQ-008</ref>
+    <price>550000</price>
+    <currency>EUR</currency>
+    <price_freq>sale</price_freq>
+    <type>Villa</type>
+    <town>Castillo de la Duquesa</town>
+    <province>Málaga</province>
+    <country>ES</country>
+    <location>
+      <latitude>36.3752</latitude>
+      <longitude>-5.2502</longitude>
+    </location>
+    <beds>5</beds>
+    <baths>4</baths>
+    <pool>1</pool>
+    <terrace>1</terrace>
+    <garage>2</garage>
+    <garden>1</garden>
+    <desc lang="en">
+      Impressive five-bedroom detached villa in a prestigious residential area near Castillo de la Duquesa, offering expansive sea views from virtually every room. The property is set over two floors with a large open-plan kitchen and living area, a dedicated games room, and a beautifully landscaped garden with a private heated pool. Two covered parking spaces and a utility room complete the picture. Close to international schools and golf courses.
+    </desc>
+    <images>
+      <image>https://www.example-estate-agent.com/properties/1008/img1.jpg</image>
+      <image>https://www.example-estate-agent.com/properties/1008/img2.jpg</image>
+      <image>https://www.example-estate-agent.com/properties/1008/img3.jpg</image>
+      <image>https://www.example-estate-agent.com/properties/1008/img4.jpg</image>
+    </images>
+    <features>
+      <feature>Private heated pool</feature>
+      <feature>Sea views</feature>
+      <feature>Double garage</feature>
+      <feature>Games room</feature>
+      <feature>Near golf courses</feature>
+      <feature>Near international schools</feature>
+    </features>
+  </property>
+
+  <property id="1009">
+    <date>2026-06-24</date>
+    <ref>SAB-009</ref>
+    <price>950</price>
+    <currency>EUR</currency>
+    <price_freq>month</price_freq>
+    <type>Apartment</type>
+    <town>Sabinillas</town>
+    <province>Málaga</province>
+    <country>ES</country>
+    <location>
+      <latitude>36.3608</latitude>
+      <longitude>-5.2368</longitude>
+    </location>
+    <beds>1</beds>
+    <baths>1</baths>
+    <pool>1</pool>
+    <terrace>1</terrace>
+    <garage>0</garage>
+    <garden>0</garden>
+    <desc lang="en">
+      Nicely presented one-bedroom apartment available for long-term rental in central Sabinillas. Light and airy with a west-facing terrace that catches the afternoon sun, this property is perfect for a couple or single professional. Communal pool on site, and the beach, supermarkets, and a wide selection of bars and restaurants are all within easy reach on foot. Unfurnished but white goods included.
+    </desc>
+    <images>
+      <image>https://www.example-estate-agent.com/properties/1009/img1.jpg</image>
+      <image>https://www.example-estate-agent.com/properties/1009/img2.jpg</image>
+    </images>
+    <features>
+      <feature>Long-term rental</feature>
+      <feature>Communal pool</feature>
+      <feature>Near beach</feature>
+      <feature>West facing</feature>
+      <feature>Unfurnished</feature>
+    </features>
+  </property>
+
+  <property id="1010">
+    <date>2026-06-24</date>
+    <ref>MAN-010</ref>
+    <price>220000</price>
+    <currency>EUR</currency>
+    <price_freq>sale</price_freq>
+    <type>Apartment</type>
+    <town>Puerto de la Duquesa</town>
+    <province>Málaga</province>
+    <country>ES</country>
+    <location>
+      <latitude>36.3726</latitude>
+      <longitude>-5.2455</longitude>
+    </location>
+    <beds>2</beds>
+    <baths>2</baths>
+    <pool>1</pool>
+    <terrace>1</terrace>
+    <garage>1</garage>
+    <garden>0</garden>
+    <desc lang="en">
+      Well-located two-bedroom, two-bathroom apartment within a gated complex in Puerto de la Duquesa, just a short walk from the marina and beach. The property is in excellent condition throughout, with a modern kitchen, a covered terrace, underground parking, and access to a well-maintained communal pool. Suitable as a holiday home, permanent residence, or holiday let investment. Ready to move into immediately.
+    </desc>
+    <images>
+      <image>https://www.example-estate-agent.com/properties/1010/img1.jpg</image>
+      <image>https://www.example-estate-agent.com/properties/1010/img2.jpg</image>
+      <image>https://www.example-estate-agent.com/properties/1010/img3.jpg</image>
+    </images>
+    <features>
+      <feature>Gated complex</feature>
+      <feature>Underground parking</feature>
+      <feature>Communal pool</feature>
+      <feature>Near marina</feature>
+      <feature>Move-in ready</feature>
+    </features>
+  </property>
+
+</export>
